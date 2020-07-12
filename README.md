@@ -6,6 +6,7 @@ a little on Android App Development,Flutter App Development,Java and MySql.
 ## To know little about me..
 - :earth_asia: Twitter: [@anandjha_98](https://twitter.com/anandjha_98)
 - :earth_asia: Instagram:[@anandjha.stranger](https://instagram.com/anandjha.stranger)
+- :earth_asia: LinkedIn:[Anand Jha](https://www.linkedin.com/in/anand-jha-0aa09b172/)
 
 
 <!--
